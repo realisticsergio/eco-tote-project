@@ -1,15 +1,16 @@
-# 🛍️ EcoTote — Responsive Promo Website
+# 🛍️ EcoTote Project — Responsive Promo Website
 
 ## 📄 Опис проєкту
 
-**EcoTote** — це промо-сайт бренду екологічних сумок із фокусом на стиль,
-практичність та відповідальне споживання. Сайт презентує асортимент товарів,
-переваги продукту, фото-галерею, відгуки клієнтів і блок для звʼязку. Проєкт
-адаптований для мобільних, планшетних і десктопних екранів.
+**EcoTote Project** — це промо-сайт бренду екологічних сумок із фокусом на
+стиль, практичність та відповідальне споживання. Сайт презентує асортимент
+товарів, переваги продукту, фото-галерею, відгуки клієнтів і блок для звʼязку.
+Проєкт адаптований для мобільних, планшетних і десктопних екранів.
 
-## 🔗 Live Demo
+## 🔗 Посилання
 
-[Переглянути сайт на GitHub Pages](https://vitaliifedunyk.github.io/project-group3/)
+- [GitHub Repository](https://github.com/vitaliifedunyk/eco-tote-project)
+- [Live Demo](https://vitaliifedunyk.github.io/eco-tote-project/)
 
 ## 🧩 Можливості
 
@@ -33,7 +34,7 @@
 ## 📁 Структура проєкту
 
 ```text
-project-group3/
+eco-tote-project/
 ├── src/
 │   ├── index.html
 │   ├── main.js
